@@ -11,7 +11,7 @@
 			<p title="vb"> WINE </p>
 			
 
-			<form method="post" action="logc.php">
+			<form >
 				
 				User Name: <input type="text" name="user" placeholder="text"> <br/>
 				Password : &nbsp&nbsp<input type="password" name="pass" value="pass"><br/><br/>
