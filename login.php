@@ -6,8 +6,8 @@
 </head>
 <body>
 
-		<fieldset>
-&lt; nn &gt;
+		
+
 			<p title="vb"> WINE </p>
 			
 
@@ -25,6 +25,6 @@
 						   <button onclick="document.location=signup.php">Signup</button>
 						   
 			</form>
-		</fieldset>
+		
 </body>
 </html>
